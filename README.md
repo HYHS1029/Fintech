@@ -1,3 +1,3 @@
 # Fintech
-Homework:   
+Homework: the fintech homework code
 final  
